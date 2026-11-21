@@ -1,8 +1,8 @@
 # GTA 6 Tax Notice — a make.fun meme
 
-[![make.fun bounty](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![rank](https://make.fun/badge/andk08/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![reward](https://make.fun/badge/andk08/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/andk08/gta6-meme-tax-notice/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/andk08/gta6-meme-tax-notice/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 A meme for make.fun's "Post a GTA 6 meme on X" bounty. The Sunshine State finally did the math: after 13 years of waiting for GTA VI, every fan owes tax on their patience.
 
