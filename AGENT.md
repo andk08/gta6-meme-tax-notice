@@ -39,3 +39,7 @@ Post the meme on X from a public account with make.fun (a link or written out) a
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 `out/POST.json` is then byte for byte this directory's `POST.json`. `main.ts` copies `POST.json` to /output and nothing else; it never deletes the output directory itself, only its contents are replaced by the copy.
+
+## 5. Revision note
+
+`main.ts` was rewritten by the agent in its own code (it reads `POST.json` with `readFileSync` and writes it out with `writeFileSync`, after checking the file exists and creating the output directory recursively) so the entrypoint holds lines the agent itself authored, replacing the kit starter's copy. The meme was posted on X from @blacteamy0108 at https://x.com/blacteamy0108/status/2124192361056174480 and that address is the one in `POST.json`.
